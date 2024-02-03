@@ -10,3 +10,7 @@
 # Library
 
     pip install requests
+
+# Run
+
+    python gform.py
