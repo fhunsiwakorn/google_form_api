@@ -6,3 +6,7 @@
 # Active ENV
 
     env\Scripts\activate
+
+# Library
+
+    pip install requests
